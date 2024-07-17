@@ -1,0 +1,97 @@
+* {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-family: "Nanum Gothic Coding", monospace;
+}
+
+/* /////////////////////////////////-_-/////////////// */
+
+.App {
+  width: 100%;
+  height: 100%;
+  min-height: 980px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.containWrap {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.footer {
+  width: 100%;
+  min-height: 400px;
+  background: rgb(90, 90, 90);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding-top: 50px;
+}
+
+.footerWarp {
+  width: 100%;
+  max-width: 1200px;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.footerTitle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.footerTitle h6 {
+  font-size: 0.8rem;
+  color: white;
+}
+
+.footercontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footercontent p {
+  font-size: 0.8rem;
+  color: white;
+}
+
+
+
+
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}

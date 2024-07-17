@@ -1,0 +1,91 @@
+.profileWrap {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.profileHead {
+    width: 100%;
+    padding: 20px 0px;
+    border-bottom: 1px solid gray;
+}
+
+.profileHead h6 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.profileBody {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 10px 0px;
+}
+
+/* ////////////////////////////////////////////// */
+
+.introduceWrap {
+    width: 100%;
+    min-height: 100px;
+    background: rgba(0, 0, 0, 0.021);
+    margin-bottom: 10px;
+    padding: 0.5vw;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.introduceHead {
+    width: 60%;
+    padding: 5px 0px;
+    border-bottom: 1px solid rgb(184, 184, 184);
+}
+
+.introduceHead h6 {
+    font-size: 0.9rem;
+}
+
+.introduceBody {
+    margin-top: 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.introduceSection {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.introduceSection h6 {
+    font-size: 0.8rem;
+    padding: 2.5px 0px;
+}
+
+.introduceSection .introduceTag {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.introduceSection .introduceTag p {
+    padding: 3px 7px;
+    margin: 2px 4px;
+    font-size: 0.7rem;
+    background: rgba(128, 128, 128, 0.300);
+    border-radius: 10px;
+}
+
+.introduceSection .introduceTagLink p {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(0, 0, 168);
+}
