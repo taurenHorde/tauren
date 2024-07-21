@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tauren/static/css/main.db367516.css",
-    "main.js": "/tauren/static/js/main.dd9a0bd2.js",
+    "main.css": "/tauren/static/css/main.73aa9288.css",
+    "main.js": "/tauren/static/js/main.afbe7201.js",
     "static/js/453.46084c1c.chunk.js": "/tauren/static/js/453.46084c1c.chunk.js",
     "index.html": "/tauren/index.html",
-    "main.db367516.css.map": "/tauren/static/css/main.db367516.css.map",
-    "main.dd9a0bd2.js.map": "/tauren/static/js/main.dd9a0bd2.js.map",
+    "main.73aa9288.css.map": "/tauren/static/css/main.73aa9288.css.map",
+    "main.afbe7201.js.map": "/tauren/static/js/main.afbe7201.js.map",
     "453.46084c1c.chunk.js.map": "/tauren/static/js/453.46084c1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db367516.css",
-    "static/js/main.dd9a0bd2.js"
+    "static/css/main.73aa9288.css",
+    "static/js/main.afbe7201.js"
   ]
 }
